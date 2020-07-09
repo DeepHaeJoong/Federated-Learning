@@ -15,6 +15,7 @@
     
 ### Reference
 ---
+ - [PySyft tutorial](https://github.com/OpenMined/PySyft/tree/dev)
  - [FEDERATED LEARNING OF A RECURRENT NEURAL NETWORK ON RASPBERRY PIS](https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/)
  - [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
  - [Raspberry Pi’s & Federated Learning](https://mc.ai/raspberry-pis-federated-learning/)
