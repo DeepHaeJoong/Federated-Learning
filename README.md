@@ -12,4 +12,10 @@
     - 박태섭 : 데이터 전처리 및 모델 구상
     - 이해중 : 데이터 전처리 및 모델 구상
     
- 
+    
+### Reference
+---
+ - [FEDERATED LEARNING OF A RECURRENT NEURAL NETWORK ON RASPBERRY PIS](https://blog.openmined.org/federated-learning-of-a-rnn-on-raspberry-pis/)
+ - [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
+ - [Raspberry Pi’s & Federated Learning](https://mc.ai/raspberry-pis-federated-learning/)
+ - [What is a Raspberry Pi?](https://opensource.com/resources/raspberry-pi)
