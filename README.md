@@ -13,13 +13,19 @@
     - 이해중 : 데이터 전처리 및 모델 구상
     
 ### Schedule
-
-|list|contents|end time|   
-|:--:|:--:|:--:|  
-| 1 | 2 | 3 |  
-
-
-    
+---
+|lists|contents|due date|worker|   
+|:--:|:--:|:--:|:--:|  
+| 1 | cluster를 위한 data index 부여 data 변환 | 07-13 | 해중 |
+| 2 | clustering 작업 실시 | 07-16 | 태섭 |  
+| 3 | 주간 미팅 | 07-17 | - |
+| 4 | Federate Learning 구현 | 07-23 | 민수 |
+| 5 | Federate Learning 구현 | 07-23 | - |
+| 6 | centerilzed modeling 구현 (성능 비교 및 적합한 resource 관련 KPI 조사) | 07-23 | - |   
+| - | - | - | - |   
+| 7 | 빌표 자료 PPT 작성 마감 | 08-14 | - |
+| 8 | 발표 | 08-17 | - |   
+   
 ### Reference
 ---
  - [PySyft tutorial](https://github.com/OpenMined/PySyft/tree/dev)
