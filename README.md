@@ -25,7 +25,13 @@
 | - | - | - | - |   
 | 7 | 빌표 자료 PPT 작성 마감 | 08-14 | - |
 | 8 | 발표 | 08-17 | - |   
-   
+
+---
+
+- "나주" 및 "인천광역시"의`datetime` 60분 단위로 데이터 정리
+- `계약종별` 쓸수 있을만한 데이터 찾기
+- 하나의 `csv` 생성
+
 ### Reference
 ---
  - [PySyft tutorial](https://github.com/OpenMined/PySyft/tree/dev)
